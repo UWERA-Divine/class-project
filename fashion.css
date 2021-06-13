@@ -6,8 +6,13 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     </head>
     <body>
-      
-	<span style="color:blue;font-weight:bold float:left;"><a href=" https://www.youtube.com/watch?v=z7VpRS6ssgk&t=59s"/><b>FASHION</b></a></span><br>
+       <span style="color:blue;font-weight:bold float:left;"><a href="index.html"/><b>HOME</b></a></span>
+	
+	
+	<span style="color:blue;font-weight:bold float:left;"><a href="information.html"/><b>MORE INFO</b></a></span>
+
+
+<span style="color:blue;font-weight:bold float:left;"><a href="fashion.css"/><b>FAHION</b></a></span><br>
         <div class="lanova-prd">
         <ul>
             <li class="Links"><i class="fa fa-home"></i><a href="home1.html"> Home </a></li>
@@ -76,4 +81,6 @@
             &copy; LANOVA STUDIO 2021 | Designed by Aline H Ir
         </div>  
     </div>
+
+	<span style="color:blue;font-weight:bold float:left;"><a href=" https://www.youtube.com/watch?v=z7VpRS6ssgk&t=59s"/><b>Watch fashion with kitenge styles</b></a></span>
 </html>
