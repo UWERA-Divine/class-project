@@ -1,0 +1,73 @@
+*
+{
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+}
+body {
+    background-image: url(sni.JPG);
+    background-size: cover;
+    background-position: center;
+    
+}
+.lanova-prd {
+    background: rgb(3, 17, 13);
+    text-align: center;
+
+}
+.lanova-prd ul {
+display: inline-flex;
+list-style: none;
+color: white;
+
+}
+.lanova-prd ul li {
+    width: 120px;
+    margin: 15px;
+    padding: 15px;
+}
+.lanova-prd ul li a {
+    text-decoration: none;
+    color: white;
+}
+.Links, .lanova-prd ul li:hover
+ {
+background: rgb(37, 66, 34);
+border-radius: 3px;
+
+}
+.lanova-prd .fa {
+margin-right: 7px;
+
+}
+.menu-1 {
+    display: none;
+}
+.lanova-prd ul li:hover .menu-1 {
+    display: block;
+    position: absolute;
+    background-color:  rgb(3, 17, 13);
+    margin-top: 15px;
+    margin-left: -15px;
+}
+.lanova-prd ul li:hover .menu-1 ul {
+    display: block;
+    margin: 10px;
+
+}
+.lanova-prd ul li:hover .menu-1 ul li {
+    padding: 10px;
+    width: 120px;
+    border-bottom: 1px dashed tomato;
+    background: transparent;
+    border-radius: 0px;
+    text-align: left;
+}
+.lanova-prd ul li:hover .menu-1 ul li a:hover {
+color: tomato;
+}
+.footer-bottom {
+    align-items: center;
+    height: 9px;
+    margin-bottom: 90px;
+}
